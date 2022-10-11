@@ -4,3 +4,5 @@
 https://cdn.jsdelivr.net/gh/hepking/publib/cl-crud2-0.2.32/cl-crud2.min.js
 
 https://cdn.jsdelivr.net/gh/hepking/publib/cl-crud2-0.4.1/cl-crud2.min.js
+
+https://cdn.jsdelivr.net/gh/hepking/publib/tinymce@5.10.0/tinymce.min.js
